@@ -1,0 +1,6 @@
+Sala Palatului,Antonia,3000,Concert
+In puii mei,Bendeac,11100,Altele
+Bro,Bro,25,Balet
+TeamBuilding,BroMania,1000,Comedie
+Sala Palatului,Ed,200,Concert
+Steaua-Dinamo,Necunoscut,3600,Altele

@@ -1,0 +1,13 @@
+1;Informatica;Eugenia Maria-Ohota
+2;Matematica;Nanu
+3;Chimie;Talaba Ioan
+4;Biologie;Neguleasa Carmen
+5;Muzica;Secara
+6;Desen;Plaveti
+7;Fizica;Sfantu Toma
+8;Istorie;Fosila
+9;Romana;Nisu
+10;Engleza;Sefter
+876120;English;Loretta Hubbard
+2959246;Statistics;Katherine Lauritzen
+8835402;Software Engineering;Candice Zuniga

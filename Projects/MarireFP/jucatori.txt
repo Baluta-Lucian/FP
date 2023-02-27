@@ -1,0 +1,10 @@
+Navickas;Gediminas;180;Fundas
+Nikolic;Niksa;182;Fundas
+Dragusin;Ionut;210;Pivot
+Graham;Paul;190;Extrema
+Dumitrescu;Tudor;176;Extrema
+Baluta;Lucian;174;Fundas
+Rosu;Mihai;180;Pivot
+Horia;Petre;173;Fundas
+Mihai;Schintee;188;Pivot
+Ioana;Baciu;192;Extrema

@@ -1,0 +1,8 @@
+Navickas;Gediminas;280;Fundas
+Nikolic;Niksa;282;Fundas
+Dragusin;Ionut;310;Pivot
+Graham;Paul;290;Extrema
+Dumitrescu;Tudor;276;Extrema
+Baluta;Lucian;274;Fundas
+Mihai;Schintee;210;Fundas
+Horia;Raduletu;160;Fundas
